@@ -26,23 +26,17 @@ textarea {
 }
 
 .col {
-  border-style: inset;
-  border-radius: 10px border-color: black;
+  text-align: right;
+  border-left: none;
+  border-left-style: none;
+  border-right: inset;
 }
 
 .col-6 {
   text-align: center;
-  column-width: 600px;
-  border-style: inset;
-  border-radius: 10px;
-  border-color: black;
+  min-width: 80%;
 }
 
-.grid {
-  border-style: solid;
-  border-top: black;
-  border-color: black;
-}
 
 .time-block {
   text-align: center;
@@ -51,6 +45,9 @@ textarea {
 
 .row {
   white-space: pre-wrap;
+  border-radius: 10px;
+  border-right-style: inset;
+  border-bottom-style: inset;
   height: 80px;
   border-top: 1px solid white;
 }
