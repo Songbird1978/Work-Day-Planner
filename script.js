@@ -19,4 +19,15 @@ console.log(thisMoment);
 
 currentDay.text("Today's Date is : " + today);
 
+timeArray = [];
+
+for (let i = 0; i < timeArray.length; i++) {
+    const element = array[index];
+    
+}
+
+array.forEach (rowTime => thisHour {
+    
+});
+    
 
