@@ -10,7 +10,7 @@ var thisHour = moment().format("HH:mm");
 //var rowTime = document.getElementsByTagName('time')[0].getAttribute('datetime');
 var datetime = parseInt($("#datetime").val);
 
-
+var saveBtn =  $("#rightbutton");
 
 console.log(thisHour); 
 //console.log(rowTime);

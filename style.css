@@ -48,7 +48,7 @@ textarea {
   border-radius: 10px;
   border-right-style: inset;
   border-bottom-style: inset;
-  height: 80px;
+  height: 70px;
   border-top: 1px solid white;
 }
 
@@ -79,6 +79,7 @@ textarea {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
+  min-width: 10%;
 }
 
 .saveBtn i:hover {
