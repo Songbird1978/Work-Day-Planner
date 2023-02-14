@@ -30,6 +30,7 @@ textarea {
   border-left: none;
   border-left-style: none;
   border-right: inset;
+  min-width: 10%;
 }
 
 .col-6 {
