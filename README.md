@@ -32,4 +32,4 @@ https://songbird1978.github.io/Work-Day-Planner/
 
 ## GitHub Repo
 
-https://github.com/Songbird1978/Work-Day-Planner¢
+https://github.com/Songbird1978/Work-Day-Planner
